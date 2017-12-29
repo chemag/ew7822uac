@@ -1,0 +1,10 @@
+*.o
+*.o.cmd
+*.ko
+*.ko.cmd
+.tmp_versions/
+8814au.mod.c
+Module.symvers
+modules.order
+
+
